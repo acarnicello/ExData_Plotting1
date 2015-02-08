@@ -91,6 +91,7 @@ plot4 <- function(data)
     
 }
 
+#Plot all 4 graphs on single plot
 plotall <-function(file)
 {
     #open png device 
